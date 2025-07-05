@@ -1,0 +1,9 @@
+transformers
+torch
+streamlit
+langchain
+chromadb
+sentence-transformers
+whisper
+pypdf
+unstructured
